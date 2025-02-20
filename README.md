@@ -1,7 +1,8 @@
 # Submission Reminder App  
 ## Setup Instructions  
-1. Clone the repo.  
-2. Run `./startup.sh` to start the app.  
+1. Clone the repo.
+2. `cd .submission_reminder_anglebert`
+3. Run `./startup.sh` to start the app.  
 ## App Functionality  
 - Reads from `submissions.txt` and sends reminders for 'not submitted' assignments.  
 ## Directory Structure  
